@@ -1,4 +1,6 @@
 __pycache__
+.vscode/*
 .mypy_cache
 .venv
 db.sqlite3
+settings.json
